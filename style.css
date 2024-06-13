@@ -1,0 +1,155 @@
+.gwendolyn-regular {
+  font-family: "Gwendolyn", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gwendolyn-bold {
+  font-family: "Gwendolyn", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.cinzel {
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+}
+
+.contenedor-body {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  height: 480px;
+}
+
+.contenedor-body2 h3 {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.contenedor-body2 {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.historia {
+  padding: 10px;
+  margin: 10px;
+  align-items: center;
+  height: min-content;
+  font-family: "Gwendolyn", cursive;
+}
+
+.color-body {
+  width: 250px;
+  height: 250px;
+  display: flex;
+}
+
+.img-carrusel {
+  width: 100%;
+  height: 500px;
+}
+
+.navcolor {
+  background-color: #f8bcd0;
+}
+
+.logo_tamano {
+  width: 150px;
+  height: 60px;
+}
+
+.color-footer {
+  background-color: #f8bcd0;
+}
+
+.navbar-nav .nav-link,
+.navbar-brand {
+  text-decoration: none;
+  color: white;
+}
+
+.valores {
+  background-color: #f8bcd0;
+}
+
+.carr-img {
+  width: 300px;
+  height: 300px;
+  align-content: center;
+}
+
+.video-historia {
+  width: 700px;
+  height: 700px;
+  border: none;
+  overflow: hidden;
+  padding: 10px;
+  margin: 10px;
+}
+
+.contenedor-actividades {
+  min-height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor-actividades div {
+  height: 320px;
+  width: 300px;
+  margin: 20px;
+  padding: 20px;
+  border: #f8bcd0 solid;
+  border-radius: 5px;
+  background-color: #f8bcd0;
+}
+
+.contenedor-actividades h3 {
+  font-family: "Cinzel", serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  color: #f9f6f6;
+}
+.img-actividades {
+  width: 250px;
+  height: 250px;
+  align-content: center;
+}
+
+.convenios {
+  width: 100px;
+  height: 100px;
+}
+.convenios2 {
+  width: 160px;
+  height: 100px;
+}
+
+.contenedor-valores {
+  min-height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor-valores div {
+  height: 320px;
+  width: 300px;
+  margin: 20px;
+  padding: 20px;
+  border: #f8bcd0 solid;
+  border-radius: 5px;
+  background-color: #f8bcd0;
+}
+
+.valores h3 {
+  font-family: "Gwendolyn", cursive;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  color: #fff;
+}
